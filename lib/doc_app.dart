@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_playground/core/routing/app_routes.dart';
+import 'package:flutter_playground/core/routing/app_router.dart';
 import 'package:flutter_playground/core/routing/routes.dart';
 import 'package:flutter_playground/core/theme/colors.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
